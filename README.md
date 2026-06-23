@@ -11,7 +11,7 @@ Full Stack Developer • Next.js • TypeScript • Django • AI SaaS Developme
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=120&lines=MD+Rashad;Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Django;AI+Powered+SaaS+Developer;Building+Modern+Web+Applications"
   />
 </p>
----
+
 # 🚀 About Me
 Name        : MD Rashad
 Role        : Full Stack Developer
@@ -25,8 +25,6 @@ Auth        : Clerk, JWT
 Payments    : Stripe
 
 Focus       : SaaS, AI Applications, Full Stack Development
-
-⸻
 
 💻 Tech Stack
 
