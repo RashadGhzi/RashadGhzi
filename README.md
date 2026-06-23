@@ -8,15 +8,8 @@ Full Stack Developer • Next.js • TypeScript • Django • AI SaaS Developme
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rashadghzi&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rashadghzi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rashadghzi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashadghzi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rashadghzi&theme=radical&no-frame=true&margin-w=15" />
 </p>
 ---
 # 🚀 About Me
