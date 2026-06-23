@@ -174,7 +174,5 @@ I enjoy transforming business ideas into scalable digital products using modern 
 <h3 align="center">
 🚀 Building Modern Web Applications That Scale
 </h3>
-```
-:::
 
 Tip: Create a repository named exactly rashadghzi (same as your GitHub username) and put this README.md inside it. GitHub will automatically display it as your profile showcase.
