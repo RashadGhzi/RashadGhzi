@@ -13,10 +13,11 @@ Full Stack Developer • Next.js • TypeScript • Django • AI SaaS Developme
 </p>
 ---
 # 🚀 About Me
-```typescript
-const rashad = {
+const developer = {
+  name: "MD Rashad",
   role: "Full Stack Developer",
   location: "Kuwait",
+
   frontend: [
     "Next.js",
     "React",
@@ -24,30 +25,34 @@ const rashad = {
     "Tailwind CSS",
     "Shadcn UI"
   ],
+
   backend: [
     "Python",
     "Django",
     "Django REST Framework",
     "Node.js"
   ],
+
   database: [
     "PostgreSQL",
     "MongoDB Atlas",
     "SQLite",
-    "Prisma ORM",
-    "Neon"
+    "Prisma ORM"
   ],
-  authentication: [
-    "Clerk",
-    "JWT",
-    "SimpleJWT"
-  ],
-  payments: [
-    "Stripe"
-  ],
-  cloud: [
+
+  tools: [
+    "Git",
+    "GitHub",
     "Vercel",
-    "Cloudinary"
+    "Cloudinary",
+    "VS Code",
+    "Cursor AI"
+  ],
+
+  currentlyBuilding: [
+    "SaaS Applications",
+    "AI Powered Platforms",
+    "Modern Web Solutions"
   ]
 };
 
