@@ -5,11 +5,11 @@ Full Stack Developer • Next.js • TypeScript • Django • AI SaaS Developme
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Django+%7C+REST+API+Development;AI-Powered+SaaS+Applications;Building+Scalable+Modern+Web+Apps" />
 </p>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rashadghzi&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashadghzi&theme=radical&no-frame=true&margin-w=15" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&height=120&lines=MD+Rashad;Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Django;AI+Powered+SaaS+Developer;Building+Modern+Web+Applications"
+  />
 </p>
 ---
 # 🚀 About Me
